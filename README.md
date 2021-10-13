@@ -1,7 +1,18 @@
 # GOES_TRANSPOSE
-Transpose GOES16 imagery to a different view
+
+Note. Work in progress. My first time using Github.
+
+Transpose GOES16 imagery to a different view.
+
 ## Introduction / Contents
-The usual text...
+The idea for this code originated from "https://github.com/lanceberc/GOES" who did some significant work deciphering GDAL and making it work for images files from the GOES16 and GOES17 weather satellites. The output of this code is NetCDF and/or GeoTiff that has been reprojected.
+
+One the NetCDF has been created from jpg/png file downloaded from GOESTOOLS, there are numerous examples of how to manipulate these files to add borders, coastlines, and river as described from "https://unidata.github.io/python-gallery/examples/mapping_GOES16_TrueColor.html"
+
+The collaboration between these two code sources allows the geostationary view to be reprojected/transposed. For example the attached files show the perspective as if the viewer is directly over Canada rather than viewing Canada from a location over the equator.
+
+
+
 ## Reprojecting GOES Images
 
 ## Adding Map Overlays
