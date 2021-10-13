@@ -6,7 +6,7 @@ The usual text...
 
 ## Adding Map Overlays
 
-##References
+## References
 CIRA / RAMMB SLIDER - Source of GeoColored PNGs
 NOAA NESDIS - Source of GeoColored JPGs (and other archived data)
 NASA GOES-R Series Product Users Guide Volume 4 - GOES image spatial specifications
