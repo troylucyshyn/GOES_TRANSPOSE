@@ -27,4 +27,4 @@ GDAL - Geospatial Data Abstraction Library
 numpy - Python scientific computing library
 Pillow - A Python image manipulation library
 
-## Done
+## Acknowledgements
